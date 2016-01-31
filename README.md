@@ -1,5 +1,14 @@
-# Coursera_CleaningData_ProjectAssignment
-Getting and Cleaning Data Course Project
+# Getting and Cleaning Data Course Project
+
+The aim of this assignment is to create a script to fulfill the tasks listed below;
+
+* Merges the training and the test sets to create one data set.
+* Extracts only the measurements on the mean and standard deviation for each measurement.
+* Uses descriptive activity names to name the activities in the data set
+* Appropriately labels the data set with descriptive variable names.
+* From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+Also to give a meaning for the work that accomplished a README file, a CodeBook and result of the script will also be added to the repository. 
 
 The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
 

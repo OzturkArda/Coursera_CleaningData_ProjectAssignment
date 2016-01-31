@@ -19,6 +19,8 @@ As for the last step, a new dataset with all the average measures for each subje
 
 
 ##Variables
-* Initial data : xTrain, yTrain, xTest, yTest, subjectTrain and subjectTest 
-* Merged data  : xData, yData and subjectData 
-* Names data (for the xData) : mean_and_std_features
+* Initial data ; xTrain, yTrain, xTest, yTest, subjectTrain, subjectTest, features, activities 
+* Mapping data (for the xData) : mean_and_std_features
+* Merged data  ; allData (contains : xData, yData and subjectData) 
+* Assingment output; averagesData --> averages_data.txt
+

@@ -8,7 +8,7 @@ The aim of this assignment is to create a script to fulfill the tasks listed bel
 * Appropriately labels the data set with descriptive variable names.
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Also to give a meaning for the work that accomplished a README file, a CodeBook and result of the script will also be added to the repository. 
+Also to give a meaning for the work that is accomplished a README file, a CodeBook and result of the script are also added to the repository. 
 
 The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
 

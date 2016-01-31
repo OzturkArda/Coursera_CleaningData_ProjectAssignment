@@ -1,4 +1,4 @@
-Introduction
+##Introduction
 
 run_analysis.R contains all functions to perform the tasks listed below;
 
@@ -18,7 +18,7 @@ As for the last step, a new dataset with all the average measures for each subje
 
 
 
-Variables
+##Variables
 Initial data : xTrain, yTrain, xTest, yTest, subjectTrain and subjectTest 
 Merged data  : xData, yData and subjectData 
 Names data (for the xData) : mean_and_std_features
